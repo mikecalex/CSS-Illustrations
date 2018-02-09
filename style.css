@@ -1,0 +1,42 @@
+
+div {
+  margin: auto;
+  height: 60px;
+  margin-bottom: 2rem;
+  border-top-left-radius: 100px;
+  border-bottom-left-radius: 100px;
+  border-top-right-radius: 100px;
+  border-bottom-right-radius: 100px;
+}
+
+.branch-0 {
+  width: 60px;
+  border-radius: 50%;
+  background-color: green;
+}
+.branch-1 {
+  width: 175px;
+  background-color: green;
+}
+.branch-2 {
+  width: 310px;
+  background-color: green;
+}
+.branch-3 {
+  width: 450px;
+  background-color: green;
+}
+.branch-4 {
+  width: 575px;
+  background-color: green;
+}
+.branch-5 {
+  width: 550px;
+  background-color: green;
+}
+.trunk {
+  height: 200px;
+  width: 60px;
+  background-color: #A52A2A;
+  margin-top: -5rem;
+}
